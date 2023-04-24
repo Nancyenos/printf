@@ -3,7 +3,7 @@
 
 Group-Project
 -------------
-By Nancy Nyambura [@Nancyenos] and Yemsal Saliu [@Yemsal4media]
+By *Nancy Nyambura [@Nancyenos] and Yemsal Saliu [@Yemsal4media]*
 
 Project Start: Apr 21, 2023 6:00 AM
 Project Ends: Apr 26, 2023 6:00 AM
