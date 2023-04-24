@@ -7,7 +7,7 @@
  * Return:	1 On success.
  *			-1 is returned on error.
  */
- 
+
 int _write_char(char c)
 {
 	return (write(1, &c, 1));

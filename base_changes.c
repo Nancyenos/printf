@@ -7,7 +7,7 @@ int hex_check(int, char);
  * @list: List of arguments passed to this function
  * Return: The length of the number printed
  */
- 
+
 int print_binary(va_list list)
 {
 	unsigned int num;
