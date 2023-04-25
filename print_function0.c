@@ -3,6 +3,7 @@
  * p_char - prints char
  * @args: va_list
  * Return: number of characters printed
+ * code by Yemsal & nancy
 */
 int p_char(va_list args)
 {

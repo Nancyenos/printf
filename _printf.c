@@ -3,6 +3,7 @@
  * _printf - A printf clone
  * @format: const pointer to a char - % include formats
  * Return: number of characters printed.
+ * Code by Nancy & Yemsal
 */
 int _printf(const char *format, ...)
 {

@@ -4,6 +4,7 @@
 * @dest: destination array
 * @src: input string
 * Return: string
+* written by Nancy & Yemsal
 **/
 char *_strcpy(char *dest, const char *src)
 {

@@ -4,6 +4,7 @@
 * @num: input number
 * @base: base to convert
 * Return: pointer to array - with the number converted
+* code by Nancy & Yemsal
 */
 char *change_hex_low(unsigned int num, int base)
 {

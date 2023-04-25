@@ -3,6 +3,7 @@
  * replace_str - replace no printable characters by \x + hexa value
  * @s: pointer to char
  * Return: pointer to char
+ * code by Yemsal & Nancy
 */
 char *replace_str(char *s)
 {

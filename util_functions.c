@@ -3,6 +3,7 @@
  * p_rev - prints a string in reverse
  * @args: va_list
  * Return: i
+ * written by Nancy and Yemsal
 */
 int p_rev(va_list args)
 {

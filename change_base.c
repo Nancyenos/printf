@@ -4,6 +4,7 @@
 * @num: input number
 * @base: base to convert
 * Return: pointer to array - with the number converted
+* written by Nancy and Yemsal
 */
 char *change_base(unsigned int num, int base)
 {
