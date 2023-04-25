@@ -10,6 +10,7 @@
 *
 * @sym: The operator
 * @f: The function associated
+* Code by Yemsal & nancy
 */
 struct convert
 {

@@ -4,6 +4,7 @@
  * print_number - prints a number send to this function
  * @args: List of arguments
  * Return: The number of arguments printed
+ * Code by Yemsal & Nancy
  */
 int print_number(va_list args)
 {

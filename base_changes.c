@@ -6,6 +6,7 @@ int hex_check(int, char);
  * print_binary - Function to Convert from base 10 to 2
  * @list: List of arguments passed to this function
  * Return: The length of the number printed
+ * Written by Yemsal & Nancy
  */
 
 int print_binary(va_list list)

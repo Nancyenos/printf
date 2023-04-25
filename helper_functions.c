@@ -6,6 +6,7 @@
  *
  * @s: string to reverse
  * Return: A pointer to a character
+ * written by Yemsal & Nancy
  */
 char *rev_string(char *s)
 {

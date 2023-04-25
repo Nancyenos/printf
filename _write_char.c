@@ -6,6 +6,7 @@
  *
  * Return:	1 On success.
  *			-1 is returned on error.
+ * code by Nancy and Yemsal
  */
 
 int _write_char(char c)
