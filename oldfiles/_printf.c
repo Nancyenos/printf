@@ -1,12 +1,16 @@
 #include "main.h"
+
 /**
- * _printf - A printf clone
- * @format: const pointer to a char - % include formats
- * Return: number of characters printed.
-*/
+ * _printf - This function Receives the main string and all
+ *  the necessary parameters to print a formated string
+ * @format: A string containing all the desired characters
+ * Return: A total count of the characters printed
+ * writeen by nancy and yemsal
+ */
+
 int _printf(const char *format, ...)
 {
-	int i = 0, *count, *count3;
+int i = 0, *count, *count3;
 	int ctbuffer[2];
 	int ctbuffer3[2];
 	char *copyfmt;
